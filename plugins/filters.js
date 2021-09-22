@@ -350,7 +350,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mentio
 
     }
 
-const array = ['love','list','machu','menu','mute','nee','onn','oo','pa','so','unmute','wait','adi','army','bye','chaya','edit','ip','kayari','la','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','a','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Hi','sad','don','Loki','bye']
+const array = ['love','list','machu','menu','mute','nee','onn','oo','pa','so','unmute','wait','adi','army','chaya','edit','ip','kayari','la','mari','money','monu','nallath','night','nyt','on','patti','po','poth','sir','a','Hii','ee','Da','food','Hlo','para','love u','set','sed','jada','Hi','sad','don','Loki','bye','Aada','Ara','Aswathy','Bgm','Bye','Dance','Dey','Di','Error','Fuck','Gd mrng','Group','Hello','Muthe','Poli','Remove','Sayooj','Sayumon','Tripp','alive','ayin','bot','come','copy','done','escape','get','girl','help','hm','img','kali','song','let','lost','myr','ni','nice','nokk','not','oh','oru','photo','podey','podi','pottan','run','ser','sex','sorry','truth']
 
 array.map( async (a) => {
 
